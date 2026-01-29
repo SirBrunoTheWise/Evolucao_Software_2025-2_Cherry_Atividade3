@@ -46,7 +46,7 @@ Evolucao_Software_2025-2_Cherry_Atividade1
 ├─ figuras
 │  ├─ fluxograma_pipeline.png             # Desenho do fluxo de CI
 │  ├─ evidencias_github.png               # Prints da pasta .workflow
-│  
+│  ├─ frequencia_releases.png
 │
 └─ README.md
 ```
