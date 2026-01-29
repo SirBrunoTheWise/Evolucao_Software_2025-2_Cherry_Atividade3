@@ -51,14 +51,14 @@ Evolucao_Software_2025-2_Cherry_Atividade1
 └─ README.md
 ## Autores
 
-* **Bruno Amancio Ferreira**
-* **Géssica Kelly de Souza Santos**
-* **Iago Humberto da Rosa Normandia**
-* **Leticia da Mata Cavalcanti**
-* **Maria Fernanda da Mota Diniz**
-* **Pedro Henrique Gomes dos Santos**
-* **Sâmmya Emanuelle Guimarães de Oliveira**
-* **Wenderson Luiz Portela da Silva**
+ **Bruno Amancio Ferreira**
+ **Géssica Kelly de Souza Santos**
+ **Iago Humberto da Rosa Normandia**
+ **Leticia da Mata Cavalcanti**
+ **Maria Fernanda da Mota Diniz**
+ **Pedro Henrique Gomes dos Santos**
+ **Sâmmya Emanuelle Guimarães de Oliveira**
+ **Wenderson Luiz Portela da Silva**
 
 ---
 
