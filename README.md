@@ -11,6 +11,7 @@ O projeto analisado é o **Cherry Studio**, um agente de Inteligência Artificia
 
 - **Repositório oficial:** [https://github.com/CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
 - **Stack principal:** Electron, Node.js (pnpm), TypeScript, React.
+- **Vídeo explicativo** [https://youtu.be/DcEwFfjL-Wk](https://youtu.be/DcEwFfjL-Wk)
 
 ## Objetivos do trabalho
 - Mapear a infraestrutura de automação e os workflows do projeto.
