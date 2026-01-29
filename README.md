@@ -41,7 +41,7 @@ A auditoria identificou um ecossistema robusto focado em performance e seguranç
 Evolucao_Software_2025-2_Cherry_Atividade1
 │
 ├─ documentos
-│  └─ Relatorio_Auditoria_CICD_Cherry.pdf # Documento completo da auditoria
+│  └─ Bruno_Ferreira_Gessica_Santos_Iago_Normandia_Leticia_Cavalcanti_Maria_Diniz_Pedro_Santos_Sammya_Oliveira_Atividade_3.pdf # Documento completo da auditoria
 │
 ├─ figuras
 │  ├─ fluxograma_pipeline.png             # Desenho do fluxo de CI
